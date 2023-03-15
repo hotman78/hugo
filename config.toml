@@ -1,0 +1,4 @@
+baseURL = 'http://blog.hotman78.com/'
+languageCode = 'ja-JP'
+title = 'hotmans blog'
+theme = 'ananke'
